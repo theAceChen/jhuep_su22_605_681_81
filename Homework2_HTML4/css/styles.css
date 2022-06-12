@@ -1,0 +1,67 @@
+body{
+  text-align: center;
+  font-family: 'Montserrat';
+  background-color: #8CC0DE;
+  color: #fff;
+}
+
+.navbar{
+  padding: 0 0 0;
+}
+
+
+.navbar-brand{
+  font-family: 'Ubuntu';
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+
+}
+
+/* testimonial Section */
+
+#testimonials{
+/* padding: 0 18px; */
+}
+
+.gallery-img{
+  width: 50%;
+  margin-bottom: 20px;
+
+}
+
+.carousel-item{
+    padding: 3% 15% 0;
+}
+
+.testimonial-text{
+  font-size: 2rem;
+}
+
+
+#listing{
+  padding: 3% 7%;
+}
+
+.listing-item{
+  line-height: 50px;
+  border: solid;
+}
+
+li{
+  list-style-type: none;
+}
+
+#pricing{
+  padding: 3% 7%;
+  font-size: 1.5rem;
+}
